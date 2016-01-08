@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Vignir Isberg is a software developer and researcher based in Copenhagen, Denmark.
+Vignir Isberg is a software developer and scientist based in Copenhagen, Denmark.
