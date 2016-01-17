@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "GPCR Dock 2013"
+date:   2014-08-05 10:33:51 +0100
+categories: paper
+---
+The results of GPCR Dock 2013 have been published.
+
+GPCR Dock is a protein modeling evaluation where modelers around the world try to predict the structure of an upcoming
+crystal structure of a G protein-coupled receptors in complex with ligands. In the 2013 evaluation, the structures were
+of 5-hydroxytryptamine receptors 1B and 2B, and the smoothened receptor.
+
+I participated as a member of the [Gloriam group][gloriamgroup], and our structural model of 5-HT1B ranked 1st in
+overall protein structure, and 3rd in protein-ligand complex prediction.
+
+View the results [HERE][results2013].
+
+Previous GPCR Dock results can be found [HERE][results2010] (2010) and [HERE][results2008] (2008).
+
+[gloriamgroup]: http://www.gloriamgroup.org
+[results2013]: http://dx.doi.org/10.1016/j.str.2014.06.012
+[results2010]: http://ablab.ucsd.edu/GPCRDock2010/
+[results2008]: http://jcimpt.scripps.edu/gpcr_dock.html
