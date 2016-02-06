@@ -2,7 +2,7 @@
 layout: post
 title:  "GPCR Dock 2013"
 date:   2014-08-05 10:33:51 +0100
-categories: paper
+categories: post
 ---
 The results of GPCR Dock 2013 have been published.
 

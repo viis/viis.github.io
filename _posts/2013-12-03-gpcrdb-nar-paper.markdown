@@ -2,7 +2,7 @@
 layout: post
 title:  "GPCRDB paper published"
 date:   2013-12-03 10:33:51 +0100
-categories: paper
+categories: post
 ---
 A new paper is out in *Nucleic Acids Res*.
 

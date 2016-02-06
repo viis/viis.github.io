@@ -2,7 +2,7 @@
 layout: post
 title:  "New fragment-based pharmacophore method published"
 date:   2015-01-01 10:33:51 +0100
-categories: paper
+categories: post
 ---
 A paper describing a novel pharmacophore method for G protein-coupled receptors has been published in *Methods*.
 

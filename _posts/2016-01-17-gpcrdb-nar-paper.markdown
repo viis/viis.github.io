@@ -2,7 +2,7 @@
 layout: post
 title:  "GPCRdb published in Nucleic Acids Research"
 date:   2016-01-17 10:33:51 +0100
-categories: paper
+categories: post
 ---
 A new paper is out in *Nucleic Acids Res.* that describes a major new release of [GPCRdb][gpcrdb].
 

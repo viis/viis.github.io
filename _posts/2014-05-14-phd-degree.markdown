@@ -2,7 +2,7 @@
 layout: post
 title:  "Ph.D. degree"
 date:   2014-05-14 10:33:51 +0100
-categories: academia
+categories: post
 ---
 I defended my Ph.D. thesis on May 6th, and have now been awarded a Ph.D. in Health and Medical Sciences.
 

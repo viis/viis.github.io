@@ -2,7 +2,7 @@
 layout: post
 title:  "5-HT<sub>2</sub> SAR paper out"
 date:   2013-11-07 10:33:51 +0100
-categories: paper
+categories: post
 ---
 A new paper is out in *PLOS ONE*.
 

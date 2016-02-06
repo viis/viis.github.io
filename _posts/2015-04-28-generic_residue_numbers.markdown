@@ -2,7 +2,7 @@
 layout: post
 title:  "Generic GPCR residue numbering"
 date:   2015-04-28 10:33:51 +0100
-categories: paper
+categories: post
 ---
 A paper on generic residue numbering schemes for GPCRs has been published in *Trends Pharmacol. Sci*.
 
