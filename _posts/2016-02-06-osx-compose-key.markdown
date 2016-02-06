@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multiple languages and compose key on OS X"
-date:   2016-02-04 23:00:00 +0100
+date:   2016-02-06 23:00:00 +0100
 categories: post
 ---
 
