@@ -7,7 +7,7 @@ permalink: /resume/
 ### Employment
 
 * *Feb 2016-Present*: **Software developer**, Novozymes, Denmark.
-* *Oct 2014-Jan 2015*: **Postdoc**, University of Copenhagen, Denmark.
+* *Oct 2014-Jan 2016*: **Postdoc**, University of Copenhagen, Denmark.
 * *Jul 2014-Sep 2014*: **Postdoc**, Radboud University Nijmegen, the Netherlands.
 * *Mar 2014-Jun 2014*: **Research Assistant**, University of Copenhagen, Denmark.
 * *Aug 2013*: **Visting Scholar**, Radboud University Nijmegen, the Netherlands.
