@@ -4,6 +4,8 @@ title: Published works
 permalink: /publications/
 ---
 
+[My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
+
 * **V Isberg**, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
 [GPCRdb: an information system for G protein-coupled receptors][13].  
 *Nucleic Acids Res.*, **2016**, 44, D356-D364.
