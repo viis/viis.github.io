@@ -6,6 +6,12 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* C Munk, **V Isberg**, S Mordalski, K Harpsøe, K Rataj, AS Hauser, P Kolb, AJ Bojarski, G Vriend, DE Gloriam.
+[GPCRdb: the G protein-coupled receptor database – an introduction][14].  
+*Br. J. Pharmacol.*, **2016**, 173, 2195-2207.
+
+[14]: http://dx.doi.org/10.1111/bph.13509
+
 * **V Isberg**, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
 [GPCRdb: an information system for G protein-coupled receptors][13].  
 *Nucleic Acids Res.*, **2016**, 44, D356-D364.
@@ -80,6 +86,6 @@ permalink: /publications/
 
 * **V Isberg**, T Balle, T Sander, FS Jørgensen, DE Gloriam.
 [G Protein- and Agonist-Bound Serotonin 5-HT(2A) Receptor Model Activated by Steered Molecular Dynamics Simulations][1].  
-*J. Chem. Inf. Model*, **2011**,, 51, 315–325.
+*J. Chem. Inf. Model*, **2011**, 51, 315–325.
 
 [1]: http://dx.doi.org/10.1021/ci100402f
