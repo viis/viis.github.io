@@ -6,6 +6,12 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* C Munk, K Harpsøe, AS Hauser, **V Isberg**, DE Gloriam.
+[Integrating structural and mutagenesis data to elucidate GPCR ligand binding][15].  
+*Curr. Opin. Pharmacol.*, **2016**, 30, 51-58.
+
+[15]: http://dx.doi.org/10.1016/j.coph.2016.07.003
+
 * C Munk, **V Isberg**, S Mordalski, K Harpsøe, K Rataj, AS Hauser, P Kolb, AJ Bojarski, G Vriend, DE Gloriam.
 [GPCRdb: the G protein-coupled receptor database – an introduction][14].  
 *Br. J. Pharmacol.*, **2016**, 173, 2195-2207.
