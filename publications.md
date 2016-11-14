@@ -6,6 +6,12 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* MA Shehata, AC Nøhr, D Lissa, C Bisig, **V Isberg**, KB Andersen, K Harpsøe, F Björkling, H Bräuner-Osborne, DE Gloriam.
+[Novel Agonist Bioisosteres and Common Structure-Activity Relationships for The Orphan G Protein-Coupled Receptor GPR139.][16].  
+*Sci. Rep.*, **2016**, 6, 36681.
+
+[16]: http://dx.doi.org/10.1038/srep36681
+
 * C Munk, K Harpsøe, AS Hauser, **V Isberg**, DE Gloriam.
 [Integrating structural and mutagenesis data to elucidate GPCR ligand binding][15].  
 *Curr. Opin. Pharmacol.*, **2016**, 30, 51-58.
