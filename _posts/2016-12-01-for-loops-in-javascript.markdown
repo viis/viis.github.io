@@ -10,7 +10,7 @@ equivalent to Python's `for x in y` construct. After much reading and some confu
 ways to do a for loop, and that these differ in non-intuitive ways. So, here is an overview of the for loops I've
 encountered.
 
-### The classic C-style loop with a counter and a condition
+## The classic C-style loop with a counter and a condition
 
 This style of loop is common in other languages, and will be familiar to many. The syntax is verbose and error prone.
 Not recommended.
@@ -26,7 +26,7 @@ for (var i=0; arr.length>i;i++) {
 // 3
 ```
 
-### The for .. of loop
+## The for .. of loop
 
 Although somewhat awkwardly named, this is very similar to Python's `for x in y`, and exactly was I was looking for.
 Recommended for most purposes, but only works in browsers compatible with ES2015, and thus only safe to use if you
@@ -43,7 +43,7 @@ for (let i of arr) {
 // 3
 ```
 
-### The for .. in loop
+## The for .. in loop
 
 Looks good, but might not work as you expect. `for .. in` loops over the properties of an *object*, in
 **arbitrary order**. Stay away from this one unless you know what you are doing!
@@ -59,7 +59,7 @@ for (let i in arr) {
 // 2
 ```
 
-### The forEach loop
+## The forEach loop
 
 `forEach` is not a statement, but a method of an Array object. Nonetheless, it can serve as a for loop, and allows one
 to apply a function to each element for an array. `forEach` does differ from a loop statement in that a `break`
@@ -74,7 +74,7 @@ arr.forEach(i => console.log(i));
 // 3
 ```
 
-### Map
+## Map
 
 Like `forEach`, `map` is an Array method. It works like `forEach`, but returns a new array, with the provided function
 applied to each element of the original array.
