@@ -6,39 +6,38 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
-* AC Nøhr, MA Shehata, AS Hauser, **V Isberg**, J Mokrosinski, IS Farooqi, DS Pedersen, DE Gloriam, H Bräuner-Osborne
-[The orphan G protein-coupled receptor GPR139 is activated by the peptides: Adrenocorticotropic hormone (ACTH), α-, and β-melanocyte stimulating hormone (α-MSH, and β-MSH), and the conserved core motif HFRW][17].  
-*Neurochem. Int.*, **2016**.
+* AC Nøhr, MA Shehata, AS Hauser, **V Isberg**, J Mokrosinski, IS Farooqi, DS Pedersen, DE Gloriam, H Bräuner-Osborne[The orphan G protein-coupled receptor GPR139 is activated by the peptides: Adrenocorticotropic hormone (ACTH), α-, and β-melanocyte stimulating hormone (α-MSH, and β-MSH), and the conserved core motif HFRW][17].  
+*Neurochem Int*, **2016**.
 
 [17]: http://dx.doi.org/10.1016/j.neuint.2016.11.012
 
 * MA Shehata, AC Nøhr, D Lissa, C Bisig, **V Isberg**, KB Andersen, K Harpsøe, F Björkling, H Bräuner-Osborne, DE Gloriam.
-[Novel Agonist Bioisosteres and Common Structure-Activity Relationships for The Orphan G Protein-Coupled Receptor GPR139.][16].  
-*Sci. Rep.*, **2016**, 6, 36681.
+[Novel Agonist Bioisosteres and Common Structure-Activity Relationships for The Orphan G Protein-Coupled Receptor GPR139][16].  
+*Sci Rep*, **2016**, 6, 36681.
 
 [16]: http://dx.doi.org/10.1038/srep36681
 
 * C Munk, K Harpsøe, AS Hauser, **V Isberg**, DE Gloriam.
 [Integrating structural and mutagenesis data to elucidate GPCR ligand binding][15].  
-*Curr. Opin. Pharmacol.*, **2016**, 30, 51-58.
+*Curr Opin Pharmacol*, **2016**, 30, 51-58.
 
 [15]: http://dx.doi.org/10.1016/j.coph.2016.07.003
 
 * C Munk, **V Isberg**, S Mordalski, K Harpsøe, K Rataj, AS Hauser, P Kolb, AJ Bojarski, G Vriend, DE Gloriam.
 [GPCRdb: the G protein-coupled receptor database – an introduction][14].  
-*Br. J. Pharmacol.*, **2016**, 173, 2195-2207.
+*Br J Pharmacol*, **2016**, 173, 2195-2207.
 
 [14]: http://dx.doi.org/10.1111/bph.13509
 
 * **V Isberg**, S Mordalski, C Munk, K Rataj, K Harpsøe, AS Hauser, B Vroling, AJ Bojarski, G Vriend, DE Gloriam.
 [GPCRdb: an information system for G protein-coupled receptors][13].  
-*Nucleic Acids Res.*, **2016**, 44, D356-D364.
+*Nucleic Acids Res*, **2016**, 44, D356-D364.
 
 [13]: http://dx.doi.org/10.1093/nar/gkv1178
 
 * K Harpsøe, **V Isberg**, BG Tehan, D Weiss, A Arsova, FH Marshall, H Bräuner-Osborne, DE Gloriam.
 [Selective Negative Allosteric Modulation Of Metabotropic Glutamate Receptors – A Structural Perspective of Ligands and Mutants][12].  
-*Sci. Rep.*, **2015**, 5, 13869
+*Sci Rep*, **2015**, 5, 13869
 
 [12]: http://dx.doi.org/10.1038%2Fsrep13869
 
@@ -50,13 +49,13 @@ permalink: /publications/
 
 * MA Shehata, HB Christensen, **V Isberg**, DS Pedersen, A Bender, H Bräuner-Osborne, DE Gloriam.
 [Identification of the first surrogate agonists for the G protein-coupled receptor GPR132][10].  
-*RSC Adv.*, **2015**, 5 , 48551-48557.
+*RSC Adv*, **2015**, 5 , 48551-48557.
 
 [10]: http://dx.doi.org/10.1039/C5RA04804D
 
 * **V Isberg**, C de Graaf, A Bortolato, V Cherezov, V Katritch, FH Marshall, S Mordalski, J-P Pin, RC Stevens, G Vriend, DE Gloriam.
 [Generic GPCR residue numbers–aligning topology maps while minding the gaps][9].  
-*Trends Pharmacol. Sci.*, **2015**, 36, 22-31.
+*Trends Pharmacol Sci*, **2015**, 36, 22-31.
 
 [9]: http://dx.doi.org/10.1016/j.tips.2014.11.001
 
@@ -74,13 +73,13 @@ permalink: /publications/
 
 * **V Isberg**, KB Andersen, C Bisig, GPH Dietz, H Bräuner-Osborne, DE Gloriam.
 [Computer-aided discovery of aromatic L-α-amino acids as agonists of the orphan G protein-coupled receptor GPR139][6].  
-*J. Chem. Inf. Model*, **2014**, 54, 1553–1557.
+*J Chem Inf Model*, **2014**, 54, 1553–1557.
 
 [6]: http://dx.doi.org/10.1021/ci500197a
 
 * **V Isberg**, B Vroling, R van der Kant, K Li, G Vriend, DE Gloriam.
 [GPCRDB: an information system for G protein-coupled receptors][5].  
-*Nucleic Acids Res.*, **2014**, 42, D422-D425.
+*Nucleic Acids Res*, **2014**, 42, D422-D425.
 
 [5]: http://dx.doi.org/10.1093/nar/gkt1255
 
@@ -92,18 +91,18 @@ permalink: /publications/
 
 * A Chalikiopoulos, S Thiele, M Malmgaard-Clausen, P Rydberg, **V Isberg**, T Ulven, TM Frimurer, MM Rosenkilde, DE Gloriam.
 [Structure-activity relationships and identification of optimized CC-chemokine receptor CCR1, 5 and 8 metal-ion chelators][3].  
-*J. Chem. Inf. Model.*, **2013**, 53, 2863–2873.
+*J Chem Inf Model*, **2013**, 53, 2863–2873.
 
 [3]: http://dx.doi.org/10.1021/ci4003848
 
 * AA Jensen, N Plath, MHF Pedersen, **V Isberg**, J Krall, P Wellendorph, TB Stensbøl, DE Gloriam, P Krogsgaard-Larsen, B Frølund.
 [Design, Synthesis, and Pharmacological Characterization of N- and O-Substituted 5,6,7,8-Tetrahydro-4H-isoxazolo[4,5-d]azepin-3-ol Analogues: Novel 5-HT2A/5-HT2C Receptor Agonists with Pro-Cognitive Properties][2].  
-*J. Med. Chem.*, **2013**, 56, 1211–1227.
+*J Med Chem*, **2013**, 56, 1211–1227.
 
 [2]: http://dx.doi.org/10.1021/jm301656h
 
 * **V Isberg**, T Balle, T Sander, FS Jørgensen, DE Gloriam.
 [G Protein- and Agonist-Bound Serotonin 5-HT(2A) Receptor Model Activated by Steered Molecular Dynamics Simulations][1].  
-*J. Chem. Inf. Model*, **2011**, 51, 315–325.
+*J Chem Inf Model*, **2011**, 51, 315–325.
 
 [1]: http://dx.doi.org/10.1021/ci100402f
