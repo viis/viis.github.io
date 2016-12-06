@@ -6,6 +6,12 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* AC Nøhr, MA Shehata, AS Hauser, **V Isberg**, J Mokrosinski, IS Farooqi, DS Pedersen, DE Gloriam, H Bräuner-Osborne
+[The orphan G protein-coupled receptor GPR139 is activated by the peptides: Adrenocorticotropic hormone (ACTH), α-, and β-melanocyte stimulating hormone (α-MSH, and β-MSH), and the conserved core motif HFRW][17].  
+*Neurochem. Int.*, **2016**.
+
+[17]: http://dx.doi.org/10.1016/j.neuint.2016.11.012
+
 * MA Shehata, AC Nøhr, D Lissa, C Bisig, **V Isberg**, KB Andersen, K Harpsøe, F Björkling, H Bräuner-Osborne, DE Gloriam.
 [Novel Agonist Bioisosteres and Common Structure-Activity Relationships for The Orphan G Protein-Coupled Receptor GPR139.][16].  
 *Sci. Rep.*, **2016**, 6, 36681.
