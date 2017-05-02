@@ -7,7 +7,7 @@ permalink: /publications/
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
 * AC Nøhr, W Jespers, MA Shehata, L Floryan, **V Isberg**, KB Andersen, J Åqvist, H Gutiérrez-de-Terán, H Bräuner-Osborne, DE Gloriam.
-[The GPR139 reference agonists 1a and 7c, and tryptophan and phenylalanine share a common binding site][17].  
+[The GPR139 reference agonists 1a and 7c, and tryptophan and phenylalanine share a common binding site][18].  
 *Sci Rep*, **2017**.
 
 [18]: http://dx.doi.org/10.1038/s41598-017-01049-z
