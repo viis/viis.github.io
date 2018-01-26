@@ -6,13 +6,14 @@ permalink: /resume/
 
 ### Employment
 
-* *Feb 2016-Present*: **Bioinformatics software developer**, Novozymes, Denmark.
+* *Jan 2018-Present*: **Senior Scientist**, Novozymes, Denmark.
+* *Feb 2016-Dec 2017*: **Bioinformatics Software Developer**, Novozymes, Denmark.
 * *Oct 2014-Jan 2016*: **Postdoc**, University of Copenhagen, Denmark.
 * *Jul 2014-Sep 2014*: **Postdoc**, Radboud University Nijmegen, Netherlands.
 * *Mar 2014-Jun 2014*: **Research Assistant**, University of Copenhagen, Denmark.
 * *Aug 2013*: **Visting Scholar**, Radboud University Nijmegen, Netherlands.
 * *Jul 2012-Dec 2012*: **Visiting Scholar**, University of Cambridge, United Kingdom.
-* *May 2005–Aug 2008*: **Software developer**, Valka, Kópavogur, Iceland.
+* *May 2005–Aug 2008*: **Software Developer**, Valka, Kópavogur, Iceland.
 
 ### Education
 
