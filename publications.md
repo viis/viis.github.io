@@ -7,7 +7,7 @@ permalink: /publications/
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
 * IO Frandsen, MW Boesgaard, K Fidom, AS Hauser, **V Isberg**, H Bräuner-Osborne, P Wellendorph, DE Gloriam.
-[Identification of Histamine H3 Receptor Ligands Using a New Crystal Structure Fragment-based Method][19]
+[Identification of Histamine H3 Receptor Ligands Using a New Crystal Structure Fragment-based Method][19].  
 *Sci Rep*, **2017**, 7, 4829.
 
 [19]: http://dx.doi.org/10.1038/s41598-017-05058-w
