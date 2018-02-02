@@ -6,15 +6,21 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* IO Frandsen, MW Boesgaard, K Fidom, AS Hauser, **V Isberg**, H Bräuner-Osborne, P Wellendorph, DE Gloriam.
+[Identification of Histamine H3 Receptor Ligands Using a New Crystal Structure Fragment-based Method][19]
+*Sci Rep*, **2017**, 7, 4829.
+
+[19]: http://dx.doi.org/10.1038/s41598-017-05058-w
+
 * AC Nøhr, W Jespers, MA Shehata, L Floryan, **V Isberg**, KB Andersen, J Åqvist, H Gutiérrez-de-Terán, H Bräuner-Osborne, DE Gloriam.
 [The GPR139 reference agonists 1a and 7c, and tryptophan and phenylalanine share a common binding site][18].  
-*Sci Rep*, **2017**.
+*Sci Rep*, **2017**, 7, 1128
 
 [18]: http://dx.doi.org/10.1038/s41598-017-01049-z
 
 * AC Nøhr, MA Shehata, AS Hauser, **V Isberg**, J Mokrosinski, IS Farooqi, DS Pedersen, DE Gloriam, H Bräuner-Osborne.
 [The orphan G protein-coupled receptor GPR139 is activated by the peptides: Adrenocorticotropic hormone (ACTH), α-, and β-melanocyte stimulating hormone (α-MSH, and β-MSH), and the conserved core motif HFRW][17].  
-*Neurochem Int*, **2016**.
+*Neurochem Int*, **2016**, 102, 105-113.
 
 [17]: http://dx.doi.org/10.1016/j.neuint.2016.11.012
 
