@@ -6,6 +6,12 @@ permalink: /publications/
 
 [My publications on Google Scholar](https://scholar.google.com/citations?user=dEWfpRsAAAAJ)
 
+* C Munk, E Mutt, **V Isberg**, LF Nikolajsen, JM Bibbe, T Flock, MA Hanson, RC Stevens, X Deupi, DE Gloriam.
+[An online resource for GPCR structure determination and analysis][20].  
+*Nat Methods*, **2019**.
+
+[20]: https://doi.org/10.1038/s41592-018-0302-x
+
 * IO Frandsen, MW Boesgaard, K Fidom, AS Hauser, **V Isberg**, H Bräuner-Osborne, P Wellendorph, DE Gloriam.
 [Identification of Histamine H3 Receptor Ligands Using a New Crystal Structure Fragment-based Method][19].  
 *Sci Rep*, **2017**, 7, 4829.
