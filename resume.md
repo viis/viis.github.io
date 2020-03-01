@@ -6,7 +6,8 @@ permalink: /resume/
 
 ### Employment
 
-* *Jan 2018-Present*: **Senior Scientist**, Novozymes, Denmark.
+* *Dec 2019-Present*: **Team Leader**, Novozymes, Denmark.
+* *Jan 2018-Dec 2019*: **Senior Scientist**, Novozymes, Denmark.
 * *Feb 2016-Dec 2017*: **Bioinformatics Software Developer**, Novozymes, Denmark.
 * *Oct 2014-Jan 2016*: **Postdoc**, University of Copenhagen, Denmark.
 * *Jul 2014-Sep 2014*: **Postdoc**, Radboud University Nijmegen, Netherlands.
